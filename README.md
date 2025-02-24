@@ -42,13 +42,13 @@ và thêm
         </plugins>
     </build>
 ```
-Qua tab: File
-tạo cây thư mục sau nếu chưa có: 
-file > src > Test > Java
-lúc này, bên project sẽ tự xuất hiện test packages
-=> đây là nơi dành riêng cho các dự án viết unit test
-trong test packages > <default package>: tạo class java để test
-(trên đầu mỗi hàm test có thêm thông số: @Test)
+Qua tab: File  
+tạo cây thư mục sau nếu chưa có:   
+file > src > Test > Java  
+lúc này, bên project sẽ tự xuất hiện test packages  
+=> đây là nơi dành riêng cho các dự án viết unit test  
+trong test packages > <default package>: tạo class java để test  
+(trên đầu mỗi hàm test có thêm thông số: @Test)  
 
 - tạo file muốn kiểm tra trong Sources pakeges > com.company.filenme > <tên file kiểm tra>
 
