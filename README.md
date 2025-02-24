@@ -44,7 +44,7 @@ và thêm
 ```
 Qua tab: File  
 tạo cây thư mục sau nếu chưa có:   
-file > src > Test > Java  
+- file > src > Test > Java  
 lúc này, bên project sẽ tự xuất hiện test packages  
 => đây là nơi dành riêng cho các dự án viết unit test  
 trong test packages > <default package>: tạo class java để test  
